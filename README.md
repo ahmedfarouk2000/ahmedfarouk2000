@@ -5,5 +5,6 @@ Hello and welcome to my GitHub profile! :tada: :fire: My name is Ahmed Farouk :s
 
 - :point_right: Do leave a review on [My Portfolio Website](https://mywebsite-af.netlify.app/)
 - :point_right: Reach me through [LinkedIn](https://www.linkedin.com/in/ahmed-farouk-a54853146/)
+- :point_right: Review My [CV](https://drive.google.com/file/d/1cTQE95S9GBfhWTDGcrwjWbCwVWZkr-IX/view?usp=sharing)
 
 <br/>
